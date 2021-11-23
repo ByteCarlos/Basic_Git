@@ -11,7 +11,7 @@ COMO USAR O GIT COM REPOSITÓRIO GITHUB<br />
 3 - code . para abrir a pasta no VScode<br />
 4 - Criar os arquivos de cod normalmente<br />
 5 - "git status" para verificar se há mudanças nos arquivos<br />
-6 - "git add .\arquivo" para adicionar um arquivo no git, ou apenas "git add . para adicionar tudo"<br />
+6 - "git add .\arquivo" para adicionar um arquivo no git, ou apenas "git add ." para adicionar tudo<br />
 7 - Para registrar uma mudança no git de um "git commit -m "mensagem para identificar mudança" "<br />
 8 - "git log" mostra todos os commit's registrados<br />
 
