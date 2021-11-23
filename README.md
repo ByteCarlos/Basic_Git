@@ -1,5 +1,6 @@
 # Git_Basico
 Instruções para usar o Git no seu projeto integrado com repositório GitHub
+OBS: ABRA O README PARA MELHOR VISUALIZAÇÃO DO TEXTO
 
 COMO USAR O GIT COM REPOSITÓRIO GITHUB
 1 - Primeiro de um "cd" na pasta do projeto que deseja colocar o git
