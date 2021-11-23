@@ -16,5 +16,5 @@ PARA ADICIONAR UM REPOSITÓRIO REMOTO
 2 - "git push -u origin master" manda os arquivos pro repositorio remoto
 
 OBS: REGISTRE-SE NO GIT PARA IDENIFICAÇÃO ASSIM:
-PS D:\Projeto> git config --global user.email "carlosh70contato@gmail.com"
-PS D:\Projeto> git config --global user.name "Carlos"
+PS D:\Projeto> git config --global user.email "exemplo@gmail.com"
+PS D:\Projeto> git config --global user.name "Meu Nome"
